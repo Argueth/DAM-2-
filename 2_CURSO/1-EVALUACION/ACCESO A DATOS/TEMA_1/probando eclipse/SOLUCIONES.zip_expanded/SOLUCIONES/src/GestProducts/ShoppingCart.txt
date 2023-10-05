@@ -1,0 +1,4 @@
+Product: dildo, Price: 5.0, Units: 17
+Product: chocho, Price: 1.0, Units: 5
+Product: año, Price: 70.0, Units: 100
+Product: ano, Price: 5.0, Units: 200

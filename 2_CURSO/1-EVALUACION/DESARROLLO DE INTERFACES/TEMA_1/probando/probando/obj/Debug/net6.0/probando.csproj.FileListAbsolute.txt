@@ -1,0 +1,14 @@
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\TEMA_1\probando\probando\bin\Debug\net6.0\probando.exe
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\TEMA_1\probando\probando\bin\Debug\net6.0\probando.deps.json
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\TEMA_1\probando\probando\bin\Debug\net6.0\probando.runtimeconfig.json
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\TEMA_1\probando\probando\bin\Debug\net6.0\probando.dll
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\TEMA_1\probando\probando\bin\Debug\net6.0\probando.pdb
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\TEMA_1\probando\probando\obj\Debug\net6.0\probando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\TEMA_1\probando\probando\obj\Debug\net6.0\probando.AssemblyInfoInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\TEMA_1\probando\probando\obj\Debug\net6.0\probando.AssemblyInfo.cs
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\TEMA_1\probando\probando\obj\Debug\net6.0\probando.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\TEMA_1\probando\probando\obj\Debug\net6.0\probando.dll
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\TEMA_1\probando\probando\obj\Debug\net6.0\refint\probando.dll
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\TEMA_1\probando\probando\obj\Debug\net6.0\probando.pdb
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\TEMA_1\probando\probando\obj\Debug\net6.0\probando.genruntimeconfig.cache
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\TEMA_1\probando\probando\obj\Debug\net6.0\ref\probando.dll

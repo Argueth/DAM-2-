@@ -1,0 +1,5 @@
+Frase 1: 11 vocales
+Frase 2: 8 vocales
+Frase 3: 4 vocales
+Frase 4: 9 vocales
+Frase 5: 20 vocales
