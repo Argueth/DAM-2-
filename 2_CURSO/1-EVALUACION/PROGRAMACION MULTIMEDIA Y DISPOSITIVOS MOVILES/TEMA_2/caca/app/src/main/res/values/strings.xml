@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">caca</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="height">Altura</string>
+    <string name="cdMansymbol">Simbolo masculino</string>
+    <string name="cdWomanSymbol">Simbolo femenino</string>
+    <string name="cdHehigthSelection">Slider para seleccionar la altura</string>
+    <string name="heightFormat">%s cm</string>
+    <string name="heightInitText">120 cm</string>
 </resources>

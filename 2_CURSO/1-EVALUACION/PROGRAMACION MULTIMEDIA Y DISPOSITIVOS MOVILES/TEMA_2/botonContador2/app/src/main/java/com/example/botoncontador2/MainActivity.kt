@@ -12,11 +12,12 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
+        var contador:Int = 0
         boton1 = findViewById(R.id.boton1)
         boton1.setOnClickListener {
             contador++
-            boton1.text="Ha sido pulsado $contador veces"
+            val stringBoton = getString(R.string.clickString, contador)
+            boton1.text=stringBoton
         }
     }
 }

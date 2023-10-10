@@ -8,15 +8,15 @@
 
     <Button
         android:id="@+id/boton1"
-        android:layout_width="373dp"
+        android:layout_width="300dp"
         android:layout_height="wrap_content"
-        android:layout_marginStart="16dp"
-        android:layout_marginTop="267dp"
-        android:layout_marginEnd="22dp"
-        android:backgroundTint="#20EA19"
-        android:text="PULSA EL BOTÓN"
+        android:backgroundTint="@color/botton"
+        android:text="@string/clickStringInit"
+        android:textColor="@color/black"
+        android:textAllCaps="true"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

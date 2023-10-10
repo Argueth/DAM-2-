@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">botonContador2</string>
+    <string name="clickStringInit">Pulsa el botón</string>
+    <string name="clickString">El botón ha sido pulsado %d veces</string>
 </resources>
