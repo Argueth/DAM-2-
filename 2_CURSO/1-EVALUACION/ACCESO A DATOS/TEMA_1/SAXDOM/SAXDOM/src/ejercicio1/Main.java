@@ -14,6 +14,7 @@ import org.xml.sax.SAXException;
 public class Main {
 	
 	public static final String FILENAME = "./carta.xml";
+	public static final String REPORT_FILENAME = "./report.xsl";
 	public static Carta carta = new Carta();
 	
 	public static void main(String[] args) {
@@ -32,8 +33,10 @@ public class Main {
 						carta.listPizzas(FILENAME);
 						break;
 					case 3:
+						Carta.deleteFile(FILENAME);
 						break;
 					case 4:
+						Carta.xslGenerate(REPORT_FILENAME);
 						break;
 					case 0:
 						System.out.println("BYE!!");
