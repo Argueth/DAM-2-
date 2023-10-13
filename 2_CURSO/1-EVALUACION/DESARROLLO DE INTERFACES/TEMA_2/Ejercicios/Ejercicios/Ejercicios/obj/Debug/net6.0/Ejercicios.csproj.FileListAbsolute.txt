@@ -1,0 +1,14 @@
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\TEMA_2\Ejercicios\Ejercicios\Ejercicios\bin\Debug\net6.0\Ejercicios.exe
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\TEMA_2\Ejercicios\Ejercicios\Ejercicios\bin\Debug\net6.0\Ejercicios.deps.json
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\TEMA_2\Ejercicios\Ejercicios\Ejercicios\bin\Debug\net6.0\Ejercicios.runtimeconfig.json
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\TEMA_2\Ejercicios\Ejercicios\Ejercicios\bin\Debug\net6.0\Ejercicios.dll
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\TEMA_2\Ejercicios\Ejercicios\Ejercicios\bin\Debug\net6.0\Ejercicios.pdb
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\TEMA_2\Ejercicios\Ejercicios\Ejercicios\obj\Debug\net6.0\Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\TEMA_2\Ejercicios\Ejercicios\Ejercicios\obj\Debug\net6.0\Ejercicios.AssemblyInfoInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\TEMA_2\Ejercicios\Ejercicios\Ejercicios\obj\Debug\net6.0\Ejercicios.AssemblyInfo.cs
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\TEMA_2\Ejercicios\Ejercicios\Ejercicios\obj\Debug\net6.0\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\TEMA_2\Ejercicios\Ejercicios\Ejercicios\obj\Debug\net6.0\Ejercicios.dll
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\TEMA_2\Ejercicios\Ejercicios\Ejercicios\obj\Debug\net6.0\refint\Ejercicios.dll
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\TEMA_2\Ejercicios\Ejercicios\Ejercicios\obj\Debug\net6.0\Ejercicios.pdb
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\TEMA_2\Ejercicios\Ejercicios\Ejercicios\obj\Debug\net6.0\Ejercicios.genruntimeconfig.cache
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\TEMA_2\Ejercicios\Ejercicios\Ejercicios\obj\Debug\net6.0\ref\Ejercicios.dll

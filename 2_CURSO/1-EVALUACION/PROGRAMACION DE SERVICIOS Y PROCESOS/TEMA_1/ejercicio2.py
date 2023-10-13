@@ -18,14 +18,14 @@ if __name__ == "__main__":
         f1 = open(archivoPath/"solucion.txt", "w")
     except OSError as e:
         print("Fichero1:", e)
-    
-    try:
-        f2 = open(archivoPath/"frases.txt", "r")
-        numLinea=1
-        for line in f2.readlines():
-            resultado = calcularVocales(line.lower())
-            f1.write(f"Frase {numLinea}: {resultado} vocales\n")
-            numLinea+=1
+    else:
+        try:
+            f2 = open(archivoPath/"frases.txt", "r")
+            numLinea=1
+            for line in f2.readlines():
+                resultado = calcularVocales(line.lower())
+                f1.write(f"Frase {numLinea}: {resultado} vocales\n")
+                numLinea+=1
 
-    except OSError as e:
-        print("Fichero2:", e)
+        except OSError as e:
+            print("Fichero2:", e)
