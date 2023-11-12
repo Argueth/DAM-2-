@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio2</string>
+    <string name="textButtonInit">Pulsa el botón</string>
+    <string name="textButton">EL botón ha sido pulsado %d veces</string>
+</resources>

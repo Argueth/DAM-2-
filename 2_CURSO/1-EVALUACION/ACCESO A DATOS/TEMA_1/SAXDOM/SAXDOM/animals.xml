@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='./reportAnimals.xsl'?><animals>
+    <animal>
+        <id>1</id>
+        <name>manolito</name>
+        <species>joder</species>
+        <breed>cacq</breed>
+        <age>3</age>
+        <sterilised>yes</sterilised>
+    </animal>
+</animals>

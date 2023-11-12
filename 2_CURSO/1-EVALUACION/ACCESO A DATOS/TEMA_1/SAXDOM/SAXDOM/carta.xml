@@ -7,12 +7,12 @@
     </pizza>
     <pizza>
         <id>2</id>
-        <name>caca</name>
+        <name>joder</name>
         <price>5.0</price>
     </pizza>
     <pizza>
         <id>3</id>
-        <name>pedo</name>
-        <price>3.0</price>
+        <name>ostia</name>
+        <price>6.0</price>
     </pizza>
 </pizzas>

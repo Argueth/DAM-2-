@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><players>
+     <player>
+          <id>ft098</id>
+          <complete_name>pablo</complete_name>
+          <country>españa</country>
+          <score_1>1.0</score_1>
+          <score_2>1.0</score_2>
+          <score_3>1.0</score_3>
+          <scoreTotal>3.0</scoreTotal>
+     </player>
+     <player>
+          <id>ft099</id>
+          <complete_name>yolanda</complete_name>
+          <country>francia</country>
+          <score_1>0.5</score_1>
+          <score_2>1.0</score_2>
+          <score_3>1.0</score_3>
+          <scoreTotal>2.5</scoreTotal>
+     </player>
+     <player>
+          <id>ft100</id>
+          <complete_name>teresa</complete_name>
+          <country>italia</country>
+          <score_1>0.0</score_1>
+          <score_2>0.5</score_2>
+          <score_3>0.0</score_3>
+          <scoreTotal>0.5</scoreTotal>
+     </player>
+</players>

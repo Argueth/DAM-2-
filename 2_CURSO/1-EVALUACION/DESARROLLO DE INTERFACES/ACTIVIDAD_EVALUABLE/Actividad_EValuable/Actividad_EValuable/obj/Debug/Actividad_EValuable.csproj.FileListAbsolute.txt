@@ -1,0 +1,15 @@
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ACTIVIDAD_EVALUABLE\Actividad_EValuable\Actividad_EValuable\bin\Debug\Actividad_EValuable.exe.config
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ACTIVIDAD_EVALUABLE\Actividad_EValuable\Actividad_EValuable\bin\Debug\Actividad_EValuable.exe
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ACTIVIDAD_EVALUABLE\Actividad_EValuable\Actividad_EValuable\bin\Debug\Actividad_EValuable.pdb
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ACTIVIDAD_EVALUABLE\Actividad_EValuable\Actividad_EValuable\obj\Debug\Actividad_EValuable.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ACTIVIDAD_EVALUABLE\Actividad_EValuable\Actividad_EValuable\obj\Debug\MainWindow.g.cs
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ACTIVIDAD_EVALUABLE\Actividad_EValuable\Actividad_EValuable\obj\Debug\App.g.cs
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ACTIVIDAD_EVALUABLE\Actividad_EValuable\Actividad_EValuable\obj\Debug\Actividad_EValuable_MarkupCompile.cache
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ACTIVIDAD_EVALUABLE\Actividad_EValuable\Actividad_EValuable\obj\Debug\Actividad_EValuable_MarkupCompile.lref
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ACTIVIDAD_EVALUABLE\Actividad_EValuable\Actividad_EValuable\obj\Debug\MainWindow.baml
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ACTIVIDAD_EVALUABLE\Actividad_EValuable\Actividad_EValuable\obj\Debug\Actividad_EValuable.g.resources
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ACTIVIDAD_EVALUABLE\Actividad_EValuable\Actividad_EValuable\obj\Debug\Actividad_EValuable.Properties.Resources.resources
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ACTIVIDAD_EVALUABLE\Actividad_EValuable\Actividad_EValuable\obj\Debug\Actividad_EValuable.csproj.GenerateResource.cache
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ACTIVIDAD_EVALUABLE\Actividad_EValuable\Actividad_EValuable\obj\Debug\Actividad_EValuable.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ACTIVIDAD_EVALUABLE\Actividad_EValuable\Actividad_EValuable\obj\Debug\Actividad_EValuable.exe
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ACTIVIDAD_EVALUABLE\Actividad_EValuable\Actividad_EValuable\obj\Debug\Actividad_EValuable.pdb

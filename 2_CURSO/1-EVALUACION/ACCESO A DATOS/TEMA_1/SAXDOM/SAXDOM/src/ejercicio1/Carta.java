@@ -44,7 +44,6 @@ public class Carta {
 				throw new InputMismatchException("Invalid ID.");
 			}
 			if(intId == 0) {
-				enter.nextLine();
 				createDocument(FILENAME);
 				break;
 			}

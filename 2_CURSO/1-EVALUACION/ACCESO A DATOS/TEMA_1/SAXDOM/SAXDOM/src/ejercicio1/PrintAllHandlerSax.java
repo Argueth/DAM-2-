@@ -27,6 +27,7 @@ public class PrintAllHandlerSax extends DefaultHandler {
 		}
 	}
 	
+	@Override
 	public void characters(char[] ch, int start, int length) throws SAXException {
 		sbCurrentValue.append(ch, start, length);
 	}
