@@ -1,0 +1,4 @@
+La frase 1 tiene 5 vocales
+La frase 2 tiene 6 vocales
+La frase 3 tiene 10 vocales
+El total de vocales del archivo es: 21

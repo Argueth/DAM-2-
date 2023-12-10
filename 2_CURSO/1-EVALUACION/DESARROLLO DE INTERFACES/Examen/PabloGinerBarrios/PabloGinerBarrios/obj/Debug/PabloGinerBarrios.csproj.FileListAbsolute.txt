@@ -1,0 +1,15 @@
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\Examen\PabloGinerBarrios\PabloGinerBarrios\bin\Debug\PabloGinerBarrios.exe.config
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\Examen\PabloGinerBarrios\PabloGinerBarrios\bin\Debug\PabloGinerBarrios.exe
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\Examen\PabloGinerBarrios\PabloGinerBarrios\bin\Debug\PabloGinerBarrios.pdb
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\Examen\PabloGinerBarrios\PabloGinerBarrios\obj\Debug\PabloGinerBarrios.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\Examen\PabloGinerBarrios\PabloGinerBarrios\obj\Debug\MainWindow.g.cs
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\Examen\PabloGinerBarrios\PabloGinerBarrios\obj\Debug\App.g.cs
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\Examen\PabloGinerBarrios\PabloGinerBarrios\obj\Debug\PabloGinerBarrios_MarkupCompile.cache
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\Examen\PabloGinerBarrios\PabloGinerBarrios\obj\Debug\PabloGinerBarrios_MarkupCompile.lref
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\Examen\PabloGinerBarrios\PabloGinerBarrios\obj\Debug\MainWindow.baml
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\Examen\PabloGinerBarrios\PabloGinerBarrios\obj\Debug\PabloGinerBarrios.g.resources
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\Examen\PabloGinerBarrios\PabloGinerBarrios\obj\Debug\PabloGinerBarrios.Properties.Resources.resources
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\Examen\PabloGinerBarrios\PabloGinerBarrios\obj\Debug\PabloGinerBarrios.csproj.GenerateResource.cache
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\Examen\PabloGinerBarrios\PabloGinerBarrios\obj\Debug\PabloGinerBarrios.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\Examen\PabloGinerBarrios\PabloGinerBarrios\obj\Debug\PabloGinerBarrios.exe
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\Examen\PabloGinerBarrios\PabloGinerBarrios\obj\Debug\PabloGinerBarrios.pdb

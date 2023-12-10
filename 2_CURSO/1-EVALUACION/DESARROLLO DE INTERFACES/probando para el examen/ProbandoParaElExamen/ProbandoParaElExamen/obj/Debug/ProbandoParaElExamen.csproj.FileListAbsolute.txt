@@ -1,0 +1,15 @@
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\probando para el examen\ProbandoParaElExamen\ProbandoParaElExamen\bin\Debug\ProbandoParaElExamen.exe.config
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\probando para el examen\ProbandoParaElExamen\ProbandoParaElExamen\bin\Debug\ProbandoParaElExamen.exe
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\probando para el examen\ProbandoParaElExamen\ProbandoParaElExamen\bin\Debug\ProbandoParaElExamen.pdb
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\probando para el examen\ProbandoParaElExamen\ProbandoParaElExamen\obj\Debug\ProbandoParaElExamen.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\probando para el examen\ProbandoParaElExamen\ProbandoParaElExamen\obj\Debug\MainWindow.g.cs
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\probando para el examen\ProbandoParaElExamen\ProbandoParaElExamen\obj\Debug\App.g.cs
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\probando para el examen\ProbandoParaElExamen\ProbandoParaElExamen\obj\Debug\ProbandoParaElExamen_MarkupCompile.cache
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\probando para el examen\ProbandoParaElExamen\ProbandoParaElExamen\obj\Debug\ProbandoParaElExamen_MarkupCompile.lref
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\probando para el examen\ProbandoParaElExamen\ProbandoParaElExamen\obj\Debug\MainWindow.baml
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\probando para el examen\ProbandoParaElExamen\ProbandoParaElExamen\obj\Debug\ProbandoParaElExamen.g.resources
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\probando para el examen\ProbandoParaElExamen\ProbandoParaElExamen\obj\Debug\ProbandoParaElExamen.Properties.Resources.resources
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\probando para el examen\ProbandoParaElExamen\ProbandoParaElExamen\obj\Debug\ProbandoParaElExamen.csproj.GenerateResource.cache
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\probando para el examen\ProbandoParaElExamen\ProbandoParaElExamen\obj\Debug\ProbandoParaElExamen.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\probando para el examen\ProbandoParaElExamen\ProbandoParaElExamen\obj\Debug\ProbandoParaElExamen.exe
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\probando para el examen\ProbandoParaElExamen\ProbandoParaElExamen\obj\Debug\ProbandoParaElExamen.pdb

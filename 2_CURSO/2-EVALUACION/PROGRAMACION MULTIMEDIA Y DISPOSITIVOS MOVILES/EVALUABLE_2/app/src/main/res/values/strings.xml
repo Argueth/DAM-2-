@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Evaluable_2</string>
+    <string name="colorpicker">Color Picker</string>
+    <string name="camara">Camara</string>
+    <string name="cdCameraSwitcher">Press to switch the camera</string>
+    <string name="cdCameraTaker">Press to take a photo</string>
+    <string name="cdPhotoView">Press to view the capture</string>
+    <string name="hisaveTone">Escribe el nombre del tono</string>
+    <string name="buttonSaveTone">Guardar tono</string>
+</resources>

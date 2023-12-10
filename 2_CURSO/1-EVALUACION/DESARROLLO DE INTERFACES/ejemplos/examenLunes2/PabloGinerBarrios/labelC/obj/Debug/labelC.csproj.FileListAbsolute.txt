@@ -1,0 +1,16 @@
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\examenLunes2\PabloGinerBarrios\labelC\bin\Debug\labelC.exe.config
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\examenLunes2\PabloGinerBarrios\labelC\bin\Debug\labelC.exe
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\examenLunes2\PabloGinerBarrios\labelC\bin\Debug\labelC.pdb
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\examenLunes2\PabloGinerBarrios\labelC\obj\Debug\labelC.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\examenLunes2\PabloGinerBarrios\labelC\obj\Debug\MainWindow.g.cs
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\examenLunes2\PabloGinerBarrios\labelC\obj\Debug\App.g.cs
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\examenLunes2\PabloGinerBarrios\labelC\obj\Debug\labelC_MarkupCompile.cache
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\examenLunes2\PabloGinerBarrios\labelC\obj\Debug\labelC_MarkupCompile.lref
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\examenLunes2\PabloGinerBarrios\labelC\obj\Debug\MainWindow.baml
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\examenLunes2\PabloGinerBarrios\labelC\obj\Debug\labelC.g.resources
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\examenLunes2\PabloGinerBarrios\labelC\obj\Debug\labelC.Properties.Resources.resources
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\examenLunes2\PabloGinerBarrios\labelC\obj\Debug\labelC.csproj.GenerateResource.cache
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\examenLunes2\PabloGinerBarrios\labelC\obj\Debug\labelC.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\examenLunes2\PabloGinerBarrios\labelC\obj\Debug\labelC.exe
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\examenLunes2\PabloGinerBarrios\labelC\obj\Debug\labelC.pdb
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\examenLunes2\PabloGinerBarrios\labelC\obj\Debug\App.baml

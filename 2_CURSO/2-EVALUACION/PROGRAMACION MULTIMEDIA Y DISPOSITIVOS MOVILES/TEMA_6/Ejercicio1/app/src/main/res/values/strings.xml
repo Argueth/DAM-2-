@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio1</string>
+    <string name="button1">informafión para el bundle</string>
+    <string name="button2">borrar bundle</string>
+</resources>

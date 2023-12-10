@@ -1,0 +1,15 @@
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\posibleExamen\PabloGinerBarrios\PosibleExamen\obj\Debug\PosibleExamen.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\posibleExamen\PabloGinerBarrios\PosibleExamen\obj\Debug\App.g.cs
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\posibleExamen\PabloGinerBarrios\PosibleExamen\obj\Debug\PosibleExamen_MarkupCompile.cache
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\posibleExamen\PabloGinerBarrios\PosibleExamen\bin\Debug\PosibleExamen.exe.config
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\posibleExamen\PabloGinerBarrios\PosibleExamen\bin\Debug\PosibleExamen.exe
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\posibleExamen\PabloGinerBarrios\PosibleExamen\bin\Debug\PosibleExamen.pdb
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\posibleExamen\PabloGinerBarrios\PosibleExamen\obj\Debug\MainWindow.g.cs
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\posibleExamen\PabloGinerBarrios\PosibleExamen\obj\Debug\PosibleExamen_MarkupCompile.lref
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\posibleExamen\PabloGinerBarrios\PosibleExamen\obj\Debug\MainWindow.baml
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\posibleExamen\PabloGinerBarrios\PosibleExamen\obj\Debug\PosibleExamen.g.resources
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\posibleExamen\PabloGinerBarrios\PosibleExamen\obj\Debug\PosibleExamen.Properties.Resources.resources
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\posibleExamen\PabloGinerBarrios\PosibleExamen\obj\Debug\PosibleExamen.csproj.GenerateResource.cache
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\posibleExamen\PabloGinerBarrios\PosibleExamen\obj\Debug\PosibleExamen.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\posibleExamen\PabloGinerBarrios\PosibleExamen\obj\Debug\PosibleExamen.exe
+C:\Users\pablo\OneDrive\Escritorio\DAM_CURSO_2\2_CURSO\1-EVALUACION\DESARROLLO DE INTERFACES\ejemplos\posibleExamen\PabloGinerBarrios\PosibleExamen\obj\Debug\PosibleExamen.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenLunes", "ExamenLunes\ExamenLunes.csproj", "{FE1BAE79-946A-46E1-A73B-C7520A3C08CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "labelC", "labelC\labelC.csproj", "{DE6539F0-D9E0-43EB-BBAC-850FE9266EC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE1BAE79-946A-46E1-A73B-C7520A3C08CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE1BAE79-946A-46E1-A73B-C7520A3C08CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE1BAE79-946A-46E1-A73B-C7520A3C08CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE1BAE79-946A-46E1-A73B-C7520A3C08CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE6539F0-D9E0-43EB-BBAC-850FE9266EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE6539F0-D9E0-43EB-BBAC-850FE9266EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE6539F0-D9E0-43EB-BBAC-850FE9266EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE6539F0-D9E0-43EB-BBAC-850FE9266EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12CA9B5F-B092-4ABD-9862-FD40EFD8E1EE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practica1</string>
+    <string name="selecciona">SELECCIONA \nEL TONO\n DE LLAMADA</string>
+    <string name="ninguno">Ninguno</string>
+    <string name="callisto">Callisto</string>
+    <string name="ganymede">Ganymede</string>
+    <string name="luna">Luna</string>
+    <string name="saturno">Saturno</string>
+    <string name="pluton">Plutón</string>
+</resources>

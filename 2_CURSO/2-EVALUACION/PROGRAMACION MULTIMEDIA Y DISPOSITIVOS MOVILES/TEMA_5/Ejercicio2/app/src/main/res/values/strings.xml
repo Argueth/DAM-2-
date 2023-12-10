@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Practica2</string>
+    <string name="hint">Please type languaje...</string>
+    <string name="button">submit</string>
+
+    <string-array name="lenguajes">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Swift</item>
+        <item>Python</item>
+        <item>Scala</item>
+        <item>Perl</item>
+        <item>JavaScript</item>
+        <item>Jquery</item>
+    </string-array>
+</resources>
